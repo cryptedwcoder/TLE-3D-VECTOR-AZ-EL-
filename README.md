@@ -1,2 +1,2 @@
 # TLE-3D-VECTOR-AZ-EL-
-This is a code that I wrote for creating a 3D vector and graph of vector pointing to the given sattelite from observers coordinates.
+Here is a code I wrote to create a 3D vector and graph of a vector pointing to a given satellite from the observer's coordinates. Using the Skyfield library, it calculates the ECEF coordinates for both the observer and the satellite. By default, the code is set to use the TLE of the NOAA17 satellite and observer coordinates for Istanbul. You can easily modify the TLE and observer coordinates to suit your own needs.
